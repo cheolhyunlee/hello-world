@@ -1,2 +1,3 @@
 # hello-world
-tutorial repository
+
+hello, i'm blink and i like the BLACKPINK
